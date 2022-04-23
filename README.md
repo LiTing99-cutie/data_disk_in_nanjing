@@ -29,4 +29,5 @@ added in PYTHONPATH
 ## project/1KMG/in_house
 
 to see scripts in every sub directories: 
-tree -f  project/1KMG/in_house | grep .sh$ | less
+tree -f project/1KMG/in_house | grep .sh$ | less
+tree -if project/1KMG/in_house | grep .sh$ | grep -v temp | xargs git add --all --
