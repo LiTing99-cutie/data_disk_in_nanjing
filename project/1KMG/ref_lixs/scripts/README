@@ -1,0 +1,13 @@
+#### 2020-04-08 ####
+## 1 calculate_map_resolution.sh
+	description: This script was used to calculate map resolution descripted in Rao&Huntley et al., Cell 2014
+	source: juicer (cp /rd1/user/lixs/Projects/1KMG/tools/juicer-master/misc/calculate_map_resolution.sh  /rd1/user/lixs/Projects/1KMG/tools/scripts/)
+	revised:
+		1) Revised by uplee, set the genome size variable by passing parameter
+#### EO 2020-04-08 ####
+
+#### 2020-04-29 ####
+## 2 sparseToMerged_nodups.pl
+	description: This script convert contact matrix in sparse format (defined by HiC-Pro) to merged_nodups in "short with score" format, in order to generate .hic file for visualization 
+	example: /rd1/user/lixs/Projects/1KMG/HiC/Schmitt_cellRep/denseMat2hic
+#### EO 2020-04-29 ####

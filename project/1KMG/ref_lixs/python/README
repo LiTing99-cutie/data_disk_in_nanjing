@@ -1,0 +1,14 @@
+#### 2021-03-16 ####
+#### 1. utils.py
+Description: This script refered to 
+  (1) class InputStream in svtools utils.py (/home/lixs/anaconda2/lib/python2.7/site-packages/svtools/utils.py)
+  (2) class Bedpe in svtools bedpe.py (/home/lixs/anaconda2/lib/python2.7/site-packages/svtools/bedpe.py)
+  (3) class BedpetoBlockedBedConverter in svtools bedpetobed12.py (/home/lixs/anaconda2/lib/python2.7/site-packages/svtools/bedpetobed12.py)
+Usage: conda activate base
+
+#### 2. bedpeToBed12.py
+Description: This script refered to
+  (1) Script bedpetobed12.py  in svtools (/home/lixs/anaconda2/lib/python2.7/site-packages/svtools/bedpetobed12.py)
+  It's could be regarded as a simple version of bedpetobed12.py, used to convert bedpe to blocked bed12 file for visualization in UCSC Genome Browser.
+Usage: conda activate base
+#### EO 2021-03-16 ####
